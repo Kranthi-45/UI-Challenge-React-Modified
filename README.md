@@ -8,8 +8,8 @@ To Run:
      -> npm install  
      -> npm start 
      
-To Test & Coverage:
-     -> npm test
+To Test & Coverage: 
+     -> npm test    
      
 1) Views: Created the Upbox website in 3 different views as per given UI Figma wireframe view pixels;    
        -> Desktop view;      
