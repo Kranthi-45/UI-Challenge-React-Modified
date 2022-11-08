@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url(../public/fonts/roboto-font/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: 'DM Sans';
+  src: url(../public/fonts/dm-sans-font/DMSans-Regular.ttf);
+}
+html, body {
+  /* max-width: 100%; */
+  overflow-x: hidden !important;
+}
+body {
+  margin: 0;
+  font-family: 'Roboto' !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Roboto',
+}

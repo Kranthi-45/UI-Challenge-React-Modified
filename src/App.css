@@ -1,0 +1,19 @@
+
+#bimg {
+  width: 100%;
+  position: relative; 
+  background-image:url(../public/assets/topbar-desktop.png);
+  background-repeat: no-repeat;
+}
+@media only screen and (min-width: 318px) and (max-width: 360px) {
+
+  #bimg {
+      width: 110%;
+  }
+}
+@media only screen and (min-width: 767px) and (max-width: 840px) {
+
+  #bimg {
+    width: 110%;
+  }
+}
